@@ -1,2 +1,2 @@
-# An-AI-Nigerian-recipe-assistant
-this code shows how people can get meals to cook whenever their in the kitchen
+AMOS OLUWASHAYO STEPHANIE - [amosoluwashayo19@gmail.com](malito:amosoluwashayo19@gmail.com)
+instructors: Mubaraq - [github.com/mubarraqq](https://github.com/mubarraqqq)
